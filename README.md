@@ -1,2 +1,2 @@
 # Penetration-Test-Report
-Documentation and notes from my first Penetration Testing Report and Home Lab
+Documentation from my first Penetration Testing Home Lab Project
